@@ -1,0 +1,95 @@
+
+
+http=a1.ap.fastqvpn.com:29980, username=289830219345297408, password=929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn1 ID1
+http=a2.ap.fastqvpn.com:29980, username=289830219345297408, password=929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn2 ID1 
+http=a3.ap.fastqvpn.com:29980, username=289830219345297408, password=929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn3 ID1 
+http=a4.ap.fastqvpn.com:29980, username=289830219345297408, password=929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID1
+http=a5.ap.fastqvpn.com:29980, username=289830219345297408, password=929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID1
+ 
+http=a1.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn1 ID2
+http=a2.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn2 ID2
+http=a3.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn3 ID2
+http=a4.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID2
+http=a5.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID2
+
+http=a1.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn1 ID3
+http=a2.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn2 ID3
+http=a3.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn3 ID3
+http=a4.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID3
+http=a5.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID3
+
+http=a1.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn1 ID4
+http=a2.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn2 ID4
+http=a3.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn3 ID4 
+http=a4.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID4
+http=a5.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID4
+
+http=a1.ap.fastqvpn.com:29980, username=374927645923606528, password=68efb158-7e74-4199-985b-0f618eed571f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn1 ID5
+http=a2.ap.fastqvpn.com:29980, username=374927645923606528, password=68efb158-7e74-4199-985b-0f618eed571f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn2 ID5
+http=a3.ap.fastqvpn.com:29980, username=374927645923606528, password=68efb158-7e74-4199-985b-0f618eed571f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn3 ID5 
+http=a4.ap.fastqvpn.com:29980, username=374927645923606528, password=68efb158-7e74-4199-985b-0f618eed571f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID5
+http=a5.ap.fastqvpn.com:29980, username=374927645923606528, password=68efb158-7e74-4199-985b-0f618eed571f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID5
+
+
+tw.ghelper.net:443/#ghelper1
+tw.ghelper.net:3389/#ghelper2
+
+929d73d4-fb27-43de-8e78-e1982d0a94e2:289830219345297408@a1.ap.fastqvpn.com:29980/#Fastqvpn1 ID1
+929d73d4-fb27-43de-8e78-e1982d0a94e2:289830219345297408@a2.ap.fastqvpn.com:29980/#Fastqvpn2 ID1
+929d73d4-fb27-43de-8e78-e1982d0a94e2:289830219345297408@a3.ap.fastqvpn.com:29980/#Fastqvpn3 ID1
+929d73d4-fb27-43de-8e78-e1982d0a94e2:289830219345297408@a4.ap.fastqvpn.com:29980/#Fastqvpn4 ID1
+929d73d4-fb27-43de-8e78-e1982d0a94e2:289830219345297408@a5.ap.fastqvpn.com:29980/#Fastqvpn5 ID1
+
+3de38b27-6a38-4c7a-be77-54921b019921:359719451865645056@a1.ap.fastqvpn.com:29980/#Fastqvpn1 ID2
+3de38b27-6a38-4c7a-be77-54921b019921:359719451865645056@a2.ap.fastqvpn.com:29980/#Fastqvpn2 ID2
+3de38b27-6a38-4c7a-be77-54921b019921:359719451865645056@a3.ap.fastqvpn.com:29980/#Fastqvpn3 ID2
+3de38b27-6a38-4c7a-be77-54921b019921:359719451865645056@a4.ap.fastqvpn.com:29980/#Fastqvpn4 ID2
+3de38b27-6a38-4c7a-be77-54921b019921:359719451865645056@a5.ap.fastqvpn.com:29980/#Fastqvpn5 ID2
+
+1114a99d-df04-4951-a5e0-ca617916d09e:365036939641880576@a1.ap.fastqvpn.com:29980/#Fastqvpn1 ID3
+1114a99d-df04-4951-a5e0-ca617916d09e:365036939641880576@a2.ap.fastqvpn.com:29980/#Fastqvpn2 ID3
+1114a99d-df04-4951-a5e0-ca617916d09e:365036939641880576@a3.ap.fastqvpn.com:29980/#Fastqvpn3 ID3
+1114a99d-df04-4951-a5e0-ca617916d09e:365036939641880576@a4.ap.fastqvpn.com:29980/#Fastqvpn4 ID3
+1114a99d-df04-4951-a5e0-ca617916d09e:365036939641880576@a5.ap.fastqvpn.com:29980/#Fastqvpn5 ID3
+
+c96e36a1-dec5-4a21-9c5c-b44602493b79:366279056288645120@a1.ap.fastqvpn.com:29980/#Fastqvpn1 ID4
+c96e36a1-dec5-4a21-9c5c-b44602493b79:366279056288645120@a2.ap.fastqvpn.com:29980/#Fastqvpn2 ID4
+c96e36a1-dec5-4a21-9c5c-b44602493b79:366279056288645120@a3.ap.fastqvpn.com:29980/#Fastqvpn3 ID4
+c96e36a1-dec5-4a21-9c5c-b44602493b79:366279056288645120@a4.ap.fastqvpn.com:29980/#Fastqvpn4 ID4
+c96e36a1-dec5-4a21-9c5c-b44602493b79:366279056288645120@a5.ap.fastqvpn.com:29980/#Fastqvpn5 ID4
+
+68efb158-7e74-4199-985b-0f618eed571f:374927645923606528@a1.ap.fastqvpn.com:29980/#Fastqvpn1 ID5
+68efb158-7e74-4199-985b-0f618eed571f:374927645923606528@a2.ap.fastqvpn.com:29980/#Fastqvpn2 ID5
+68efb158-7e74-4199-985b-0f618eed571f:374927645923606528@a3.ap.fastqvpn.com:29980/#Fastqvpn3 ID5
+68efb158-7e74-4199-985b-0f618eed571f:374927645923606528@a4.ap.fastqvpn.com:29980/#Fastqvpn4 ID5
+68efb158-7e74-4199-985b-0f618eed571f:374927645923606528@a5.ap.fastqvpn.com:29980/#Fastqvpn5 ID5
+
+
+
+https://dHcuZ2hlbHBlci5uZXQ6NDQzLyNnaGVscGVyMQ==
+https://dHcuZ2hlbHBlci5uZXQ6MzM4OS8jZ2hlbHBlcjI=
+https://OTI5ZDczZDQtZmIyNy00M2RlLThlNzgtZTE5ODJkMGE5NGUyOjI4OTgzMDIxOTM0NTI5NzQwOEBhMS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMSBJRDE=
+https://OTI5ZDczZDQtZmIyNy00M2RlLThlNzgtZTE5ODJkMGE5NGUyOjI4OTgzMDIxOTM0NTI5NzQwOEBhMi5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMiBJRDE=
+https://OTI5ZDczZDQtZmIyNy00M2RlLThlNzgtZTE5ODJkMGE5NGUyOjI4OTgzMDIxOTM0NTI5NzQwOEBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMyBJRDE=
+https://OTI5ZDczZDQtZmIyNy00M2RlLThlNzgtZTE5ODJkMGE5NGUyOjI4OTgzMDIxOTM0NTI5NzQwOEBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNCBJRDE=
+https://OTI5ZDczZDQtZmIyNy00M2RlLThlNzgtZTE5ODJkMGE5NGUyOjI4OTgzMDIxOTM0NTI5NzQwOEBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNSBJRDE=
+https://M2RlMzhiMjctNmEzOC00YzdhLWJlNzctNTQ5MjFiMDE5OTIxOjM1OTcxOTQ1MTg2NTY0NTA1NkBhMS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMSBJRDI=
+https://M2RlMzhiMjctNmEzOC00YzdhLWJlNzctNTQ5MjFiMDE5OTIxOjM1OTcxOTQ1MTg2NTY0NTA1NkBhMi5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMiBJRDI=
+https://M2RlMzhiMjctNmEzOC00YzdhLWJlNzctNTQ5MjFiMDE5OTIxOjM1OTcxOTQ1MTg2NTY0NTA1NkBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMyBJRDI=
+https://M2RlMzhiMjctNmEzOC00YzdhLWJlNzctNTQ5MjFiMDE5OTIxOjM1OTcxOTQ1MTg2NTY0NTA1NkBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNCBJRDI=
+https://M2RlMzhiMjctNmEzOC00YzdhLWJlNzctNTQ5MjFiMDE5OTIxOjM1OTcxOTQ1MTg2NTY0NTA1NkBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNSBJRDI=
+https://MTExNGE5OWQtZGYwNC00OTUxLWE1ZTAtY2E2MTc5MTZkMDllOjM2NTAzNjkzOTY0MTg4MDU3NkBhMS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMSBJRDM=
+https://MTExNGE5OWQtZGYwNC00OTUxLWE1ZTAtY2E2MTc5MTZkMDllOjM2NTAzNjkzOTY0MTg4MDU3NkBhMi5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMiBJRDM=
+https://MTExNGE5OWQtZGYwNC00OTUxLWE1ZTAtY2E2MTc5MTZkMDllOjM2NTAzNjkzOTY0MTg4MDU3NkBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMyBJRDM=
+https://MTExNGE5OWQtZGYwNC00OTUxLWE1ZTAtY2E2MTc5MTZkMDllOjM2NTAzNjkzOTY0MTg4MDU3NkBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNCBJRDM=
+https://MTExNGE5OWQtZGYwNC00OTUxLWE1ZTAtY2E2MTc5MTZkMDllOjM2NTAzNjkzOTY0MTg4MDU3NkBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNSBJRDM=
+https://Yzk2ZTM2YTEtZGVjNS00YTIxLTljNWMtYjQ0NjAyNDkzYjc5OjM2NjI3OTA1NjI4ODY0NTEyMEBhMS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMSBJRDQ=
+https://Yzk2ZTM2YTEtZGVjNS00YTIxLTljNWMtYjQ0NjAyNDkzYjc5OjM2NjI3OTA1NjI4ODY0NTEyMEBhMi5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMiBJRDQ=
+https://Yzk2ZTM2YTEtZGVjNS00YTIxLTljNWMtYjQ0NjAyNDkzYjc5OjM2NjI3OTA1NjI4ODY0NTEyMEBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMyBJRDQ=
+https://Yzk2ZTM2YTEtZGVjNS00YTIxLTljNWMtYjQ0NjAyNDkzYjc5OjM2NjI3OTA1NjI4ODY0NTEyMEBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNCBJRDQ=
+https://Yzk2ZTM2YTEtZGVjNS00YTIxLTljNWMtYjQ0NjAyNDkzYjc5OjM2NjI3OTA1NjI4ODY0NTEyMEBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNSBJRDQ=
+https://NjhlZmIxNTgtN2U3NC00MTk5LTk4NWItMGY2MThlZWQ1NzFmOjM3NDkyNzY0NTkyMzYwNjUyOEBhMS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMSBJRDU=
+https://NjhlZmIxNTgtN2U3NC00MTk5LTk4NWItMGY2MThlZWQ1NzFmOjM3NDkyNzY0NTkyMzYwNjUyOEBhMi5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMiBJRDU=
+https://NjhlZmIxNTgtN2U3NC00MTk5LTk4NWItMGY2MThlZWQ1NzFmOjM3NDkyNzY0NTkyMzYwNjUyOEBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuMyBJRDU=
+https://NjhlZmIxNTgtN2U3NC00MTk5LTk4NWItMGY2MThlZWQ1NzFmOjM3NDkyNzY0NTkyMzYwNjUyOEBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNCBJRDU=
+https://NjhlZmIxNTgtN2U3NC00MTk5LTk4NWItMGY2MThlZWQ1NzFmOjM3NDkyNzY0NTkyMzYwNjUyOEBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0Zhc3RxdnBuNSBJRDU=
