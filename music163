@@ -1,3 +1,6 @@
+
+
+
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟐
 http=129.211.107.21:8848, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜4
 http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐4
@@ -5,7 +8,6 @@ http=blockmusic2.poetyin.me:19951, fast-open=false, udp-relay=false, tag=🎧 �
 http=taron.top:100, fast-open=false, udp-relay=false, tag=🎵 解锁节点3
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎵 解锁节点4
 http=lolico.me:443,fast-open=false, udp-relay=false, tag=🎵 解锁节点5
-http=111.67.197.245:10086, username=网易云音乐, password=pwd, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://music.163.com, tag=网易云音乐
 http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag =🎵 解锁节点3
 http=34.92.55.89:8848, fast-open=false, udp-relay=false, tag=🎤 网易云1(google)
 http=netease1.edge.iepl.dev:80, fast-open=false, udp-relay=false, tag=🎤 网易云2(rix)
@@ -14,6 +16,7 @@ http=netease2.edge.iepl.dev:8080, fast-open=false, udp-relay=false, tag=🎤 网
 http=music.ksccc.cc:5200, fast-open=false, udp-relay=false, tag=🎧Music1
 http=127.0.0.1:16375, fast-open=false, udp-relay=false, tag=🎵 网易云解锁(星梦)
 http=unblock.xmshuju.xyz:1024, fast-open=false, udp-relay=false, tag=🎵 网易云解锁(星梦)
+http=111.67.197.245:10086, username=网易云音乐, password=pwd, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://music.163.com, tag=网易云音乐
 shadowsocks=193.112.121.44:4567, method=aes-256-cfb, password=123456, fast-open=false, udp-relay=false, server_check_url=http://music.163.com, tag=网易云音乐解锁
 shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎵 解锁节点6
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎵 解锁节点1
@@ -22,3 +25,35 @@ shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易云解锁4
 shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐1 | Alibaba Cloud
 shadowsocks=m2.jiaowoy.top:11281, method=chacha20-ietf-poly1305, password=jiaowodct, fast-open=false, udp-relay=false, tag=云音乐解锁jiaowoy
+
+
+
+
+ss://YWVzLTI1Ni1jZmI6MTIzNDU2QDE5My4xMTIuMTIxLjQ0OjQ1NjcvI+e9keaYk+S6kemfs+S5kOino+mUgQ==
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV94ODBqQG11c2ljLmRlc3BlcmFkb2ouY29tOjMwMDAxLyPwn461IOino+mUgeiKgueCuTY=
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV94ODBqQG11c2ljLmRlc3BlcmFkb2ouY29tOjMwMDAzLyPwn461IOino+mUgeiKgueCuTE=
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21AbXVzaWMuZGVzcGVyYWRvai5jb206MzAwMDMvI1VuYmxvY2sgTmV0ZWFzZSBNdXNpYw==
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9lbXgyQG11c2ljLmRlc3BlcmFkb2ouY29tOjMwMDAxLyPnvZHmmJPkupHop6PplIEz
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9lbXgyQG11c2ljLmRlc3BlcmFkb2ouY29tOjMwMDAzLyPnvZHmmJPkupHop6PplIE0
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV94ODBqQGJsb2NrbXVzaWMucG9ldHlpbi5tZTozMDAwMy8j8J+OpyDop6PplIHnvZHmmJPkupHpn7PkuZAxIHwgQWxpYmFiYSBDbG91ZA==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWFvd29kY3RAMTk1LjIwNi4xMDQuMTQ6ODAwLyPkupHpn7PkuZDop6PplIFqaWFvd295
+
+http://MTA2LjUyLjEyNy43MjoxOTk1MS8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCc8J2fkA==
+http://MTI5LjIxMS4xMDcuMjE6ODg0OC8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCcNA==
+http://YmxvY2ttdXNpYzIucG9ldHlpbi5tZToxOTk1MS8j8J+OpyDop6PplIHnvZHmmJPkupHpn7PkuZAyIHwgVGVuY2VudCBDbG91ZA==
+http://dGFyb24udG9wOjEwMC8j8J+OtSDop6PplIHoioLngrkz
+http://bXVzaWMubG9saWNvLm1lOjM5MDAwLyPwn461IOino+mUgeiKgueCuTQ=
+http://bG9saWNvLm1lOjQ0My8j8J+OtSDop6PplIHoioLngrk1
+http://bXVzaWMuZ3Jpb3VnZXMuY246MzkwMDAvI/CfjrUg6Kej6ZSB6IqC54K5Mw==
+http://MzQuOTIuNTUuODk6ODg0OC8j8J+OpCDnvZHmmJPkupExKGdvb2dsZSk=
+http://bmV0ZWFzZTEuZWRnZS5pZXBsLmRldjo4MC8j8J+OpCDnvZHmmJPkupEyKHJpeCk=
+http://bmV0ZWFzZTMuZWRnZS5pZXBsLmRldjo4MC8j8J+OpCDnvZHmmJPkupEzKHJpeCk=
+http://bmV0ZWFzZTIuZWRnZS5pZXBsLmRldjo4MDgwLyPwn46kIOe9keaYk+S6kTQocml4KQ==
+http://bXVzaWMua3NjY2MuY2M6NTIwMC8j8J+Op011c2ljMQ==
+http://MTI3LjAuMC4xOjE2Mzc1LyPwn461IOe9keaYk+S6keino+mUgSjmmJ/moqYp
+http://572R5piT5LqR6Z+z5LmQOnB3ZEAxMTEuNjcuMTk3LjI0NToxMDA4Ni8j572R5piT5LqR6Z+z5LmQ
+http://MTA2LjUyLjEyNy43MjoxOTk1MS8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCc8J2fkA==
+http://MTA2LjUyLjEyNy43MjoxOTk1MS8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCc8J2fkA==
+http://MTA2LjUyLjEyNy43MjoxOTk1MS8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCc8J2fkA==
+http://MTA2LjUyLjEyNy43MjoxOTk1MS8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCc8J2fkA==
+http://MTA2LjUyLjEyNy43MjoxOTk1MS8j8J+Op/CdkIzwnZCu8J2QrPCdkKLwnZCc8J2fkA==
