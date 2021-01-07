@@ -1,0 +1,24 @@
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟐
+http=129.211.107.21:8848, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜4
+http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐4
+http=blockmusic2.poetyin.me:19951, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐2 | Tencent Cloud
+http=taron.top:100, fast-open=false, udp-relay=false, tag=🎵 解锁节点3
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎵 解锁节点4
+http=lolico.me:443,fast-open=false, udp-relay=false, tag=🎵 解锁节点5
+http=111.67.197.245:10086, username=网易云音乐, password=pwd, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://music.163.com, tag=网易云音乐
+http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag =🎵 解锁节点3
+http=34.92.55.89:8848, fast-open=false, udp-relay=false, tag=🎤 网易云1(google)
+http=netease1.edge.iepl.dev:80, fast-open=false, udp-relay=false, tag=🎤 网易云2(rix)
+http=netease3.edge.iepl.dev:80, fast-open=false, udp-relay=false, tag=🎤 网易云3(rix)
+http=netease2.edge.iepl.dev:8080, fast-open=false, udp-relay=false, tag=🎤 网易云4(rix)
+http=music.ksccc.cc:5200, fast-open=false, udp-relay=false, tag=🎧Music1
+http=127.0.0.1:16375, fast-open=false, udp-relay=false, tag=🎵 网易云解锁(星梦)
+http=unblock.xmshuju.xyz:1024, fast-open=false, udp-relay=false, tag=🎵 网易云解锁(星梦)
+shadowsocks=193.112.121.44:4567, method=aes-256-cfb, password=123456, fast-open=false, udp-relay=false, server_check_url=http://music.163.com, tag=网易云音乐解锁
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎵 解锁节点6
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎵 解锁节点1
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, server_check_url=http://music.163.com, tag=Unblock Netease Music
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易云解锁3
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易云解锁4
+shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐1 | Alibaba Cloud
+shadowsocks=m2.jiaowoy.top:11281, method=chacha20-ietf-poly1305, password=jiaowodct, fast-open=false, udp-relay=false, tag=云音乐解锁jiaowoy
