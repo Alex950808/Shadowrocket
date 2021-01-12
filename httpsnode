@@ -42,6 +42,11 @@ http=a3.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b3
 http=a4.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID7│一键连│新加坡3
 http=a5.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID7│一键连│美国
 
+http=a1.ap.fastqvpn.com:29980, username=401364591457599488, password=a2afdf3c-f828-4cb5-aa47-bc87601f9d05, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID8│一键连│日本
+http=a2.ap.fastqvpn.com:29980, username=401364591457599488, password=a2afdf3c-f828-4cb5-aa47-bc87601f9d05, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID8│一键连│新加坡1
+http=a3.ap.fastqvpn.com:29980, username=401364591457599488, password=a2afdf3c-f828-4cb5-aa47-bc87601f9d05, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID8│一键连│新加坡2
+http=a4.ap.fastqvpn.com:29980, username=401364591457599488, password=a2afdf3c-f828-4cb5-aa47-bc87601f9d05, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID8│一键连│新加坡3
+http=a5.ap.fastqvpn.com:29980, username=401364591457599488, password=a2afdf3c-f828-4cb5-aa47-bc87601f9d05, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ID8│一键连│美国
 
 
 tw.ghelper.net:443/#Ghelper│台湾1
@@ -89,6 +94,11 @@ tw.ghelper.net:3389/#Ghelper│台湾2
 365270615478763520:fc147159-b35b-4c1c-babf-bb3abe2a301d@a4.ap.fastqvpn.com:29980/#ID7│一键连│新加坡3
 365270615478763520:fc147159-b35b-4c1c-babf-bb3abe2a301d@a5.ap.fastqvpn.com:29980/#ID7│一键连│美国
 
+401364591457599488:a2afdf3c-f828-4cb5-aa47-bc87601f9d05@a1.ap.fastqvpn.com:29980/#ID8│一键连│日本
+401364591457599488:a2afdf3c-f828-4cb5-aa47-bc87601f9d05@a2.ap.fastqvpn.com:29980/#ID8│一键连│新加坡1
+401364591457599488:a2afdf3c-f828-4cb5-aa47-bc87601f9d05@a3.ap.fastqvpn.com:29980/#ID8│一键连│新加坡2
+401364591457599488:a2afdf3c-f828-4cb5-aa47-bc87601f9d05@a4.ap.fastqvpn.com:29980/#ID8│一键连│新加坡3
+401364591457599488:a2afdf3c-f828-4cb5-aa47-bc87601f9d05@a5.ap.fastqvpn.com:29980/#ID8│一键连│美国
 
 
 https://dHcuZ2hlbHBlci5uZXQ6NDQzLyNHaGVscGVy4pSC5Y+w5rm+MQ==
@@ -128,4 +138,8 @@ https://MzY1MjcwNjE1NDc4NzYzNTIwOmZjMTQ3MTU5LWIzNWItNGMxYy1iYWJmLWJiM2FiZTJhMzAx
 https://MzY1MjcwNjE1NDc4NzYzNTIwOmZjMTQ3MTU5LWIzNWItNGMxYy1iYWJmLWJiM2FiZTJhMzAxZEBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEN+KUguS4gOmUrui/nuKUguaWsOWKoOWdoTI=
 https://MzY1MjcwNjE1NDc4NzYzNTIwOmZjMTQ3MTU5LWIzNWItNGMxYy1iYWJmLWJiM2FiZTJhMzAxZEBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEN+KUguS4gOmUrui/nuKUguaWsOWKoOWdoTM=
 https://MzY1MjcwNjE1NDc4NzYzNTIwOmZjMTQ3MTU5LWIzNWItNGMxYy1iYWJmLWJiM2FiZTJhMzAxZEBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEN+KUguS4gOmUrui/nuKUgue+juWbvQ==
-
+https://NDAxMzY0NTkxNDU3NTk5NDg4OmEyYWZkZjNjLWY4MjgtNGNiNS1hYTQ3LWJjODc2MDFmOWQwNUBhMS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEOOKUguS4gOmUrui/nuKUguaXpeacrA==
+https://NDAxMzY0NTkxNDU3NTk5NDg4OmEyYWZkZjNjLWY4MjgtNGNiNS1hYTQ3LWJjODc2MDFmOWQwNUBhMi5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEOOKUguS4gOmUrui/nuKUguaWsOWKoOWdoTE=
+https://NDAxMzY0NTkxNDU3NTk5NDg4OmEyYWZkZjNjLWY4MjgtNGNiNS1hYTQ3LWJjODc2MDFmOWQwNUBhMy5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEOOKUguS4gOmUrui/nuKUguaWsOWKoOWdoTI=
+https://NDAxMzY0NTkxNDU3NTk5NDg4OmEyYWZkZjNjLWY4MjgtNGNiNS1hYTQ3LWJjODc2MDFmOWQwNUBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEOOKUguS4gOmUrui/nuKUguaWsOWKoOWdoTM=
+https://NDAxMzY0NTkxNDU3NTk5NDg4OmEyYWZkZjNjLWY4MjgtNGNiNS1hYTQ3LWJjODc2MDFmOWQwNUBhNS5hcC5mYXN0cXZwbi5jb206Mjk5ODAvI0lEOOKUguS4gOmUrui/nuKUgue+juWbvQ==
