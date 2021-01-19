@@ -1,0 +1,488 @@
+proxies:
+  -
+    name: 禁止评论、转发、讨论任何敏感话题。
+    type: ss
+    server: azi.azzico.xyz
+    port: 10086
+    cipher: chacha20-ietf-poly1305
+    password: rOHOIW
+    udp: true
+  -
+    name: 3天更新一次0.5倍福利节点，请及时刷新。
+    type: ss
+    server: azi.azzico.xyz
+    port: 10086
+    cipher: chacha20-ietf-poly1305
+    password: rOHOIW
+    udp: true
+  -
+    name: 剩余流量：-80.04MB
+    type: ss
+    server: azi.azzico.xyz
+    port: 10086
+    cipher: chacha20-ietf-poly1305
+    password: rOHOIW
+    udp: true
+  -
+    name: 过期时间：2021-02-15
+    type: ss
+    server: azi.azzico.xyz
+    port: 10086
+    cipher: chacha20-ietf-poly1305
+    password: rOHOIW
+    udp: true
+  -
+    name: 'V1台湾A[2.0]江门-TW-NF'
+    type: vmess
+    server: twpro6025.azzico.space
+    port: 11554
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twpro6024.azzico.pw
+  -
+    name: 'V1台湾B[2.0]广州-TW-NF'
+    type: vmess
+    server: twa3116.azzico.space
+    port: 11566
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twa3116.azzico.pw
+  -
+    name: 'V1新加坡A[2.0]广州-SGP'
+    type: vmess
+    server: sg1322.azzico.space
+    port: 11558
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: sg1322.azzico.pw
+  -
+    name: 'V1日本A[2.0]长沙专线-Tokyo-NF'
+    type: vmess
+    server: jpc5269.azzico.space
+    port: 11562
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: jpc5269.azzico.pw
+  -
+    name: 'V1香港A[2.0] 广州专线-HKT-NF'
+    type: vmess
+    server: hk2197.azzico.space
+    port: 11576
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro2197.azzico.pw
+  -
+    name: 'V1香港B[2.0] 广州专线-HKT-NF'
+    type: vmess
+    server: hk2198.azzico.space
+    port: 11577
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro2197.azzico.pw
+  -
+    name: 'V2 IPLC B[10.0]深港专线-HK-HKT'
+    type: vmess
+    server: hkpro2198.azzico.space
+    port: 11575
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro2197.azzico.pw
+  -
+    name: 'V3 IEPL A [5.0] 深港专线-HK-HGC '
+    type: vmess
+    server: lepl01.azzico.space
+    port: 12001
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1370.azzico.pw
+  -
+    name: 'V3 IPLC B [5.0] 深港专线-HK-HGC '
+    type: vmess
+    server: iepl04.azzico.space
+    port: 12000
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: lepl04.azzico.pw
+  -
+    name: 'V3 IPLC C [5.0] 深港专线-HK-HKBN'
+    type: vmess
+    server: iepl05.azzico.space
+    port: 11581
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1381.azzico.pw
+  -
+    name: 'V3俄罗斯Russia[2.0] 新西伯利亚'
+    type: vmess
+    server: ru1881.azzico.space
+    port: 11570
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: ru1881.azzico.pw
+  -
+    name: 'V3加拿大[2.0]温哥华-Linode'
+    type: vmess
+    server: ca1721.azzico.space
+    port: 11573
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: ca1721.azzico.pw
+  -
+    name: 'V3台湾A[2.0]江门专线-TW-NF '
+    type: vmess
+    server: twpro6024.azzico.space
+    port: 11552
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twpro6024.azzico.pw
+  -
+    name: 'V3台湾B[2.0]广州专线-TW-NF'
+    type: vmess
+    server: twpro6025.azzico.space
+    port: 11553
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twpro6024.azzico.pw
+  -
+    name: 'V3台湾C[0.5]江门专线-TW-NF'
+    type: vmess
+    server: twpro1144.azzico.space
+    port: 11564
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twpro1144.azzico.pw
+  -
+    name: 'V3日本A[0.5]长沙专线-Tokyo-NF'
+    type: vmess
+    server: jppro1818.azzico.space
+    port: 10566
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: jppro1818.azzico.pw
+  -
+    name: 'V3日本B[2.0]长沙专线-Tokyo-NF'
+    type: vmess
+    server: jppro1323.azzico.space
+    port: 12550
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: jpb1818.azzico.pw
+  -
+    name: 'V3沪新专线A[2.0]SGP'
+    type: vmess
+    server: sgpro1322.azzico.space
+    port: 11559
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: sgpro1322.azzico.pw
+  -
+    name: 'V3沪新专线B[2.0]SGP'
+    type: vmess
+    server: sgpro1323.azzico.space
+    port: 11560
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: sgpro1322.azzico.pw
+  -
+    name: 'V3沪美专线A[0.5]洛杉矶-LA-NF'
+    type: vmess
+    server: uspro4011.azzico.space
+    port: 10567
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: uspro4011.azzico.pw
+  -
+    name: 'V3沪美专线B[2.0]西雅图-Seattle-NF'
+    type: vmess
+    server: uspro1932.azzico.space
+    port: 12551
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: uspro1932.azzico.pw
+  -
+    name: 'V3法国Paris[2.0]巴黎-Gcore'
+    type: vmess
+    server: frpro5189.azzico.space
+    port: 11569
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: frpro5189.azzico.pw
+  -
+    name: 'V3澳大利亚AUS[2.0]悉尼-Linode'
+    type: vmess
+    server: aus1721.azzico.space
+    port: 11571
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: aus1721.azzico.pw
+  -
+    name: 'V3英国Lon[2.0]伦敦-Linode'
+    type: vmess
+    server: en1391.azzico.space
+    port: 11572
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: en1391.azzico.pw
+  -
+    name: 'V3香港A[2.0]广州专线-HGC-NF '
+    type: vmess
+    server: hkpro1370.azzico.space
+    port: 11557
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1370.azzico.pw
+  -
+    name: 'V3香港B[2.0]广州专线-HGC-NF '
+    type: vmess
+    server: hkpro2033.azzico.space
+    port: 11568
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro2032.azzico.pw
+  -
+    name: 'V3香港C[0.5]江门专线-HKBN-NF'
+    type: vmess
+    server: hkpro1382.azzico.space
+    port: 11580
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1381.azzico.pw
+  -
+    name: 'V3香港E[2.0]江门专线-HGC-NF '
+    type: vmess
+    server: hkpro2122.azzico.space
+    port: 11556
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro2122.azzico.pw
+  -
+    name: '广台专线-TWN-Hinet-广州入 [2.0]'
+    type: vmess
+    server: gtiepl.azzico.space
+    port: 11567
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twpro6024.azzico.pw
+  -
+    name: '广台专线-TWN-Hinet-江门入 [2.0]'
+    type: vmess
+    server: twpro1145.azzico.space
+    port: 11582
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: twpro1144.azzico.pw
+  -
+    name: '广港专线-HGC-HK-广州入  [2.0]'
+    type: vmess
+    server: ghkiepl.azzico.space
+    port: 11555
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1652.azzico.pw
+  -
+    name: '广港专线-HGC-HK-江门入 [2.0]'
+    type: vmess
+    server: hkpro1653.azzico.space
+    port: 11561
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1653.azzico.pw
+  -
+    name: '广港专线-HKBN-HK-广州入 [2.0]'
+    type: vmess
+    server: hkpro1381.azzico.space
+    port: 11578
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1381.azzico.pw
+  -
+    name: '广港专线-HKBN-HK-江门入 [2.0]'
+    type: vmess
+    server: hkpro1382.azzico.space
+    port: 11579
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro1381.azzico.pw
+  -
+    name: '广港专线-HKT-HK-广州入 [2.0]'
+    type: vmess
+    server: hkpro2197.azzico.space
+    port: 11574
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /video
+    ws-headers:
+      Host: hkpro2197.azzico.pw
