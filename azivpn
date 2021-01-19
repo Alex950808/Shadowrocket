@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: twpro6025.azzico.space
     port: 11554
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -49,7 +49,7 @@ proxies:
     type: vmess
     server: twa3116.azzico.space
     port: 11566
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -62,7 +62,7 @@ proxies:
     type: vmess
     server: sg1322.azzico.space
     port: 11558
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -75,7 +75,7 @@ proxies:
     type: vmess
     server: jpc5269.azzico.space
     port: 11562
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -88,7 +88,7 @@ proxies:
     type: vmess
     server: hk2197.azzico.space
     port: 11576
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -101,7 +101,7 @@ proxies:
     type: vmess
     server: hk2198.azzico.space
     port: 11577
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -114,7 +114,7 @@ proxies:
     type: vmess
     server: hkpro2198.azzico.space
     port: 11575
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -127,7 +127,7 @@ proxies:
     type: vmess
     server: lepl01.azzico.space
     port: 12001
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -140,7 +140,7 @@ proxies:
     type: vmess
     server: iepl04.azzico.space
     port: 12000
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -153,7 +153,7 @@ proxies:
     type: vmess
     server: iepl05.azzico.space
     port: 11581
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -166,7 +166,7 @@ proxies:
     type: vmess
     server: ru1881.azzico.space
     port: 11570
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -179,7 +179,7 @@ proxies:
     type: vmess
     server: ca1721.azzico.space
     port: 11573
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -192,7 +192,7 @@ proxies:
     type: vmess
     server: twpro6024.azzico.space
     port: 11552
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -205,7 +205,7 @@ proxies:
     type: vmess
     server: twpro6025.azzico.space
     port: 11553
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -218,7 +218,7 @@ proxies:
     type: vmess
     server: twpro1144.azzico.space
     port: 11564
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -231,7 +231,7 @@ proxies:
     type: vmess
     server: jppro1818.azzico.space
     port: 10566
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -244,7 +244,7 @@ proxies:
     type: vmess
     server: jppro1323.azzico.space
     port: 12550
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -257,7 +257,7 @@ proxies:
     type: vmess
     server: sgpro1322.azzico.space
     port: 11559
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -270,7 +270,7 @@ proxies:
     type: vmess
     server: sgpro1323.azzico.space
     port: 11560
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -283,7 +283,7 @@ proxies:
     type: vmess
     server: uspro4011.azzico.space
     port: 10567
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -296,7 +296,7 @@ proxies:
     type: vmess
     server: uspro1932.azzico.space
     port: 12551
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -309,7 +309,7 @@ proxies:
     type: vmess
     server: frpro5189.azzico.space
     port: 11569
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -322,7 +322,7 @@ proxies:
     type: vmess
     server: aus1721.azzico.space
     port: 11571
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -335,7 +335,7 @@ proxies:
     type: vmess
     server: en1391.azzico.space
     port: 11572
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -348,7 +348,7 @@ proxies:
     type: vmess
     server: hkpro1370.azzico.space
     port: 11557
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -361,7 +361,7 @@ proxies:
     type: vmess
     server: hkpro2033.azzico.space
     port: 11568
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -374,7 +374,7 @@ proxies:
     type: vmess
     server: hkpro1382.azzico.space
     port: 11580
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -387,7 +387,7 @@ proxies:
     type: vmess
     server: hkpro2122.azzico.space
     port: 11556
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -400,7 +400,7 @@ proxies:
     type: vmess
     server: gtiepl.azzico.space
     port: 11567
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -413,7 +413,7 @@ proxies:
     type: vmess
     server: twpro1145.azzico.space
     port: 11582
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -426,7 +426,7 @@ proxies:
     type: vmess
     server: ghkiepl.azzico.space
     port: 11555
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -439,7 +439,7 @@ proxies:
     type: vmess
     server: hkpro1653.azzico.space
     port: 11561
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 2
     cipher: auto
     udp: true
@@ -452,7 +452,7 @@ proxies:
     type: vmess
     server: hkpro1381.azzico.space
     port: 11578
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -465,7 +465,7 @@ proxies:
     type: vmess
     server: hkpro1382.azzico.space
     port: 11579
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
@@ -478,7 +478,7 @@ proxies:
     type: vmess
     server: hkpro2197.azzico.space
     port: 11574
-    uuid: cb5bd099-50be-3102-84c8-30e34171d56a
+    uuid: 68413849-95e0-3036-8343-9f9ae50d9804
     alterId: 1
     cipher: auto
     udp: true
