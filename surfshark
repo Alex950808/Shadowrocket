@@ -1,0 +1,12 @@
+proxies:
+  - {"name":"🇹🇼 TW_surf_103.152.151.3","server":"103.152.151.3","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_103.152.151.5","server":"103.152.151.5","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_103.152.151.19","server":"103.152.151.19","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.242.43","server":"2.58.242.43","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.242.51","server":"2.58.242.51","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.242.53","server":"2.58.242.53","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.242.131","server":"2.58.242.131","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.242.133","server":"2.58.242.133","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.241.147","server":"2.58.241.147","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 TW_surf_2.58.241.150","server":"2.58.241.150","type":"ss","country":"🇹🇼 TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 US_surf_185.242.5.155","server":"185.242.5.155","type":"ss","country":"🇺🇸 US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
