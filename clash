@@ -1,6 +1,6 @@
 proxies:
   - {name: 🇭🇰 HK_tech.taoshen.pro, server: tech.taoshen.pro, port: 443, type: trojan, country: 🇭🇰 HK, password: saint, sni: tech.taoshen.pro, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 US_tech.inorthgate.com, server: tech.inorthgate.com, port: 443, type: vmess, uuid: b74a5e73-4138-4943-89c6-7b8e20a17c94, alterId: 233, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /northgate, udp: true}
+  - {name: 🇺🇸 US_tech.inorthgate.com, server: tech.inorthgate.com, port: 443, type: vmess, country: 🇺🇸 US, uuid: b74a5e73-4138-4943-89c6-7b8e20a17c94, alterId: 233, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /northgate, udp: true}
   - {name: 🇸🇬 SG_sg1.vless.co, server: sg1.vless.co, port: 443, type:trojan, country: 🇸🇬 SG, password: fastssh.com, skip-cert-verify: true, udp:true}
   - {name: 🇰🇷 amazon.com韩国 2, server: 15.164.226.53, port: 80, type: vmess, country:🇰🇷 KR, uuid: 4094db3e-5794-4c63-b95a-b4ea754163c5, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: github.com}}
   - {name: 🇯🇵 amazon.com日本 3, server: jp-aws.proxypoolv2.tk, port: 443, type: trojan, country:🇯🇵 JP, password: 4c5d43ef-9226-4c01-8e75-5f095ba77a97, sni: jp-aws.proxypoolv2.tk, skip-cert-verify: false}
