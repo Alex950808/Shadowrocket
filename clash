@@ -1,0 +1,9 @@
+proxies:
+  - {"name":"🇸🇬 SG_sg1.vless.co","server":"sg1.vless.co","type":"trojan","country":"🇸🇬 SG","port":443,"password":"fastssh.com","skip-cert-verify":true,"udp":true}
+  - {name: 🇰🇷 amazon.com韩国 2, server: 15.164.226.53, port: 80, type: vmess, uuid: 4094db3e-5794-4c63-b95a-b4ea754163c5, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: github.com}}
+  - {name: 🇯🇵 amazon.com日本 3, server: jp-aws.proxypoolv2.tk, port: 443, type: trojan, password: 4c5d43ef-9226-4c01-8e75-5f095ba77a97, sni: jp-aws.proxypoolv2.tk, skip-cert-verify: false}
+  - {name: 🇭🇰 amazon.com香港 3, server: 18.163.117.8, port: 80, type: vmess, uuid: 4094db3e-5794-4c63-b95a-b4ea754163c5, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: github.com}}
+  - {name: 🇭🇰 amazon.com香港 7, server: 18.166.177.77, port: 80, type: vmess, uuid: 4094db3e-5794-4c63-b95a-b4ea754163c5, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: baidu.com}}
+  - {name: 🇭🇰 amazon.com香港 8, server: 18.167.12.50, port: 80, type: vmess, uuid: 4094db3e-5794-4c63-b95a-b4ea754163c5, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: github.com}}
+  - {name: 🇭🇰 amazon.com香港 9, server: 18.166.176.223, port: 80, type: vmess, uuid: 4094db3e-5794-4c63-b95a-b4ea754163c5, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: github.com}}
+  - {name: 🇯🇵 amazon.com日本, server: a806be3faf3efc823.awsglobalaccelerator.com, port: 50101, type: vmess, uuid: c0b60a64-a7d8-42f7-8169-19a85eb96f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: a806be3faf3efc823.awsglobalaccelerator.com}}
