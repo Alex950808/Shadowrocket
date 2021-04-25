@@ -11,4 +11,5 @@ proxies:
   - {name: 🇯🇵 amazon.com日本, server: a806be3faf3efc823.awsglobalaccelerator.com, port: 50101, type: vmess, country:🇯🇵 JP, uuid: c0b60a64-a7d8-42f7-8169-19a85eb96f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: a806be3faf3efc823.awsglobalaccelerator.com}}
   - {name: 🇸🇬 Private-SG, server: 139.180.186.194, port: 666, type: vmess, country:🇸🇬 SG, uuid: 24813255-228d-b0e0-c3fa-e5d4c9defda1, alterId: 233, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇸🇬 Private-苏州电信-SG, server: 139.180.186.194.ipssh.net, port: 666, type: vmess, country:🇸🇬 SG, uuid: 24813255-228d-b0e0-c3fa-e5d4c9defda1, alterId: 233, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 香港公益abcblog.cn, server: 34.92.119.243, port: 6666, type: vmess, country:🇭🇰 HK, uuid: aeda76af-222b-4e7f-cdca-7f33c49732c9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   
