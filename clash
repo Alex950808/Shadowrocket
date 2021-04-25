@@ -15,5 +15,8 @@ proxies:
   - {name: 🇩🇪 德国V2PN, server: ln25316540.setunnel.com, port: 443, type: vmess, country:🇩🇪 DE, uuid: 45096a3f-48b7-524b-8b4f-038b029425eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 m5.mogu66.com:208, server: 120.232.41.6, port: 208, type: ss, country: 🇭🇰 HK, password: Iclfj2cij, cipher: aes-128-gcm}
   - {name: 🇭🇰 VmShell免费公益分享高速香港原生IP节点, server: cu-a.txwd.xyz, port: 55555, type: vmess, country: 🇭🇰 HK, uuid: cc832921-0676-3b8d-a088-d10cc47c55d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /mcwy-hk-cc, ws-headers: {Host: mcwy-zj.txwd.xyz}}
+  - {name: 🇹🇼 台湾-BS024*, server: 125.46.39.22, port: 10001, type: ssr, country: 🇹🇼 TW, password: shushenM, cipher: chacha20-ietf, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1279:WzyU1p, obfs-param: 7c3df1279.zhaoj.in}
+  - {name: 🇹🇼 台湾-BS026*, server: 125.46.39.22, port: 10004, type: ssr, country: 🇹🇼 TW, password: shushenM, cipher: chacha20-ietf, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1279:WzyU1p, obfs-param: 7c3df1279.zhaoj.in}
   - {name: 🇯🇵 日本-BS131^+, server: cn1.sczssr.xyz, port: 10011, type: ssr, country: 🇯🇵 JP, password: shushenM, cipher: chacha20-ietf, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1279:WzyU1p, obfs-param: 7c3df1279.zhaoj.in}
+  
   
