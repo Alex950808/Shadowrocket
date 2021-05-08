@@ -8,4 +8,4 @@ proxies:
   - {"name":"🇯🇵 日本-泡芙云","server":"cm-02.puffvip.com","port":"1052","type":"ssr","country":"🇯🇵 JP","password":"Paofu","cipher":"chacha20-ietf","protocol":"auth_aes128_sha1","obfs":"plain","protocol-param":"5605:9527","udp":"false","tfo":"false"}
   - {"name":"🇰🇷 韩国","server":"193.123.234.51","port":"8888","type":"vmess","country:🇰🇷 KR","uuid":"588b6d2f-5fcc-4e18-8139-3e9a85ca5e62","alterId":"0","cipher":"auto","tls":"false","skip-cert-verify":"false"}  
   - {"name":"🇨🇳 哔哩助手","server":"android.ufunr.me","port":"8888","type":"ss","country":"🇨🇳 CN","password":"123","cipher":"aes-256-cfb"}
-  
+  - {"name":"🇭🇰 腾讯qmail中转香港","server":"gp.mail.qq.com","port":"443","type":"http","country":"🇭🇰 HK","username":"secondaccount","password":"secondpassword@123","tls":"false"}
