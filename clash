@@ -1,15 +1,5 @@
 proxies:
-  - {"name":"🇭🇰 tech.taoshen.pro","server":"tech.taoshen.pro","port":"443","type":"trojan","country":"🇭🇰 HK","password":"saint","sni":"tech.taoshen.pro","skip-cert-verify":"true","udp":"true"}
-  - {"name":"🇺🇸 tech.inorthgate.com","server":"tech.inorthgate.com","port":"443","type":"vmess","country":"🇺🇸 US","uuid":"b74a5e73-4138-4943-89c6-7b8e20a17c94","alterId":"233","cipher":"auto","tls":"true","skip-cert-verify":"true","network":"ws","ws-path":"/northgate","udp":"true"}
-  - {"name":"🇸🇬 sg1.vless.co","server":"sg1.vless.co","port":"443","type:trojan","country":"🇸🇬 SG","password":"fastssh.com","skip-cert-verify":"true","udp:true"}
-  - {"name":"🇸🇬 Private-SG","server":"139.180.186.194","port":"666","type":"vmess","country:🇸🇬 SG","uuid":"24813255-228d-b0e0-c3fa-e5d4c9defda1","alterId":"233","cipher":"auto","tls":"false","skip-cert-verify":"false"}
-  - {"name":"🇸🇬 Private-苏州电信-SG","server":"139.180.186.194.ipssh.net","port":"666","type":"vmess","country:🇸🇬 SG","uuid":"24813255-228d-b0e0-c3fa-e5d4c9defda1","alterId":"233","cipher":"auto","tls":"false","skip-cert-verify":"false"}
-  - {"name":"🇭🇰 m5.mogu66.com:208","server":"120.232.41.6","port":"208","type":"ss","country":"🇭🇰 HK","password":"Iclfj2cij","cipher":"aes-128-gcm"}
-  - {"name":"🇯🇵 日本-泡芙云","server":"cm-02.puffvip.com","port":"1052","type":"ssr","country":"🇯🇵 JP","password":"Paofu","cipher":"chacha20-ietf","protocol":"auth_aes128_sha1","obfs":"plain","protocol-param":"5605:9527","udp":"false","tfo":"false"}
-  - {"name":"🇰🇷 韩国","server":"193.123.234.51","port":"8888","type":"vmess","country:🇰🇷 KR","uuid":"588b6d2f-5fcc-4e18-8139-3e9a85ca5e62","alterId":"0","cipher":"auto","tls":"false","skip-cert-verify":"false"}  
-  - {"name":"🇨🇳 哔哩助手","server":"android.ufunr.me","port":"8888","type":"ss","country":"🇨🇳 CN","password":"123","cipher":"aes-256-cfb"}
   - {"name":"🇭🇰 腾讯qmail中转香港","server":"gp.mail.qq.com","port":"443","type":"http","country":"🇭🇰 HK","username":"secondaccount","password":"secondpassword@123","tls":"false"}
-
   - {name: '🇨🇳 小黑回国-美国节点_1', server: infinity.zemin.life, port: 51490, type: ss, cipher: aes-128-gcm, password: yangchaoyue}
   - {name: '广东移动_3', server: ycy.gzhpxb.com, port: 49101, type: ss, cipher: aes-128-gcm, password: yangchaoyue}
   - {name: '🇭🇰 +hk_1', server: hk.252798.xyz, port: 443, type: trojan, password: 9448new, sni: hk.252798.xyz, skip-cert-verify: false}
@@ -25,5 +15,15 @@ proxies:
   - {name: '🇰🇷 +Camelia+-+KR_4', server: camelia.route76.net, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: camelia.route76.net, skip-cert-verify: false}
   - {name: '🇯🇵 JP 日本_2', server: 132.226.10.70, port: 80, type: vmess, uuid: b8a62e26-b40a-4b33-9766-15fa97c731e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: imageakm1.tv360.vn}}
   - {name: '🇺🇸 US 美国_4', server: 158.101.7.8, port: 80, type: vmess, uuid: 95b45c49-f5c0-4959-bb64-2b8fbc4a869c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: imageakm1.tv360.vn}}
- 
+  - {name: cloudflare, server: tech.inorthgate.com, port: 443, type: vmess, uuid: b74a5e73-4138-4943-89c6-7b8e20a17c94, alterId: 233, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, network: ws, ws-path: /northgate, ws-headers: {Host: tech.inorthgate.com}}
+  - {name: trojan, server: tech.taoshen.pro, port: 443, type: trojan, password: saint, sni: tech.taoshen.pro, skip-cert-verify: true}
+  - {name: ali_trojan, server: sci.taoshen.pro, port: 443, type: trojan, password: saint, sni: sci.taoshen.pro, skip-cert-verify: true}
+  - {name: vultr, server: 139.180.186.194, port: 666, type: vmess, uuid: 24813255-228d-b0e0-c3fa-e5d4c9defda1, alterId: 233, cipher: aes-128-gcm, tls: false, skip-cert-verify: true}
+  - {name: home, server: 666606.xyz, port: 12366, type: vmess, uuid: fd00927a-b0c2-4629-aef7-d9ff15a9d722, alterId: 16, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: ibmyes, server: hk1.201352.xyz, port: 35109, type: vmess, uuid: b9971241-c96f-4e58-a3d8-42fa9a494ac5, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /youku.com, ws-headers: {Host: hk1.201352.xyz}}
+  - {name: Trojanhk1, server: hk1.201352.xyz, port: 57126, type: trojan, password: 9bc7b858, skip-cert-verify: true}
+  - {name: Trojantw1, server: tw1.201352.xyz, port: 443, type: trojan, password: 1c01c2c1, skip-cert-verify: true}
+  - {name: Trojantw0, server: tw0.201352.xyz, port: 443, type: trojan, password: 33d432ed, skip-cert-verify: true}
+
+
 
