@@ -1,20 +1,20 @@
 proxies:
-  - {"name":"🇭🇰 腾讯qmail中转香港","server":"gp.mail.qq.com","port":"443","type":"http","country":"🇭🇰 HK","username":"secondaccount","password":"secondpassword@123","tls":"false"}
-  - {name: '🇨🇳 小黑回国-美国节点_1', server: infinity.zemin.life, port: 51490, type: ss, cipher: aes-128-gcm, password: yangchaoyue}
-  - {name: '广东移动_3', server: ycy.gzhpxb.com, port: 49101, type: ss, cipher: aes-128-gcm, password: yangchaoyue}
-  - {name: '🇭🇰 +hk_1', server: hk.252798.xyz, port: 443, type: trojan, password: 9448new, sni: hk.252798.xyz, skip-cert-verify: false}
-  - {name: '🇯🇵 jp_3', server: jp.252798.xyz, port: 443, type: trojan, password: 9448new, sni: jp.252798.xyz, skip-cert-verify: false}
-  - {name: 'la5_10', server: la5.252798.xyz, port: 443, type: trojan, password: 9448new, sni: la5.252798.xyz, skip-cert-verify: false}
-  - {name: 'sj768_6', server: sj768.252798.xyz, port: 443, type: trojan, password: 9448new, sni: sj768.252798.xyz, skip-cert-verify: false}
-  - {name: 'sj567_8', server: sj567.252798.xyz, port: 443, type: trojan, password: 9448new, sni: sj567.252798.xyz, skip-cert-verify: false}
-  - {name: 'sj818_9', server: sj818.252798.xyz, port: 443, type: trojan, password: 9448new, sni: sj818.252798.xyz, skip-cert-verify: false}
-  - {name: 'la36_11', server: la36.alilab.org, port: 443, type: trojan, password: 9448new, sni: la36.alilab.org, skip-cert-verify: false}
-  - {name: '挪威_8730', server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇯🇵+Mokuba+-+JP_5', server: mokuba.ssss.monster, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: mokuba.ssss.monster}
-  - {name: '🇺🇸 +Usugaki+-+US_12', server: usugaki.ssss.monster, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: usugaki.ssss.monster, skip-cert-verify: false}
-  - {name: '🇰🇷 +Camelia+-+KR_4', server: camelia.route76.net, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: camelia.route76.net, skip-cert-verify: false}
-  - {name: '🇯🇵 JP 日本_2', server: 132.226.10.70, port: 80, type: vmess, uuid: b8a62e26-b40a-4b33-9766-15fa97c731e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: imageakm1.tv360.vn}}
-  - {name: '🇺🇸 US 美国_4', server: 158.101.7.8, port: 80, type: vmess, uuid: 95b45c49-f5c0-4959-bb64-2b8fbc4a869c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: imageakm1.tv360.vn}}
+  - {name: 腾讯qmail中转香港, server: gp.mail.qq.com, port: 443, type: http, username: secondaccount, password: secondpassword@123, tls: false, skip-cert-verify: true}
+  - {name: 小黑回国-美国节点_1, server: infinity.zemin.life, port: 51490, type: ss, cipher: aes-128-gcm, password: yangchaoyue}
+  - {name: 广东移动_3, server: ycy.gzhpxb.com, port: 49101, type: ss, cipher: aes-128-gcm, password: yangchaoyue}
+  - {name: +hk_1, server: hk.252798.xyz, port: 443, type: trojan, password: 9448new, sni: hk.252798.xyz, skip-cert-verify: true}
+  - {name: jp_3, server: jp.252798.xyz, port: 443, type: trojan, password: 9448new, sni: jp.252798.xyz, skip-cert-verify: true}
+  - {name: la5_10, server: la5.252798.xyz, port: 443, type: trojan, password: 9448new, sni: la5.252798.xyz, skip-cert-verify: true}
+  - {name: sj768_6, server: sj768.252798.xyz, port: 443, type: trojan, password: 9448new, sni: sj768.252798.xyz, skip-cert-verify: true}
+  - {name: sj567_8, server: sj567.252798.xyz, port: 443, type: trojan, password: 9448new, sni: sj567.252798.xyz, skip-cert-verify: true}
+  - {name: sj818_9, server: sj818.252798.xyz, port: 443, type: trojan, password: 9448new, sni: sj818.252798.xyz, skip-cert-verify: true}
+  - {name: la36_11, server: la36.alilab.org, port: 443, type: trojan, password: 9448new, sni: la36.alilab.org, skip-cert-verify: true}
+  - {name: 挪威_8730, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: +Mokuba+-+JP_5, server: mokuba.ssss.monster, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: mokuba.ssss.monster, skip-cert-verify: true}
+  - {name: +Usugaki+-+US_12, server: usugaki.ssss.monster, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: usugaki.ssss.monster, skip-cert-verify: true}
+  - {name: +Camelia+-+KR_4, server: camelia.route76.net, port: 443, type: trojan, password: 96S3B3F5PGT6RA8B, sni: camelia.route76.net, skip-cert-verify: true}
+  - {name: JP 日本_2, server: 132.226.10.70, port: 80, type: vmess, uuid: b8a62e26-b40a-4b33-9766-15fa97c731e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: imageakm1.tv360.vn}}
+  - {name: US 美国_4, server: 158.101.7.8, port: 80, type: vmess, uuid: 95b45c49-f5c0-4959-bb64-2b8fbc4a869c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: imageakm1.tv360.vn}}
   - {name: cloudflare, server: tech.inorthgate.com, port: 443, type: vmess, uuid: b74a5e73-4138-4943-89c6-7b8e20a17c94, alterId: 233, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, network: ws, ws-path: /northgate, ws-headers: {Host: tech.inorthgate.com}}
   - {name: trojan, server: tech.taoshen.pro, port: 443, type: trojan, password: saint, sni: tech.taoshen.pro, skip-cert-verify: true}
   - {name: ali_trojan, server: sci.taoshen.pro, port: 443, type: trojan, password: saint, sni: sci.taoshen.pro, skip-cert-verify: true}
